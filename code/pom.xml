@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.bitwormhole.moya</groupId>
+	<artifactId>moya-all</artifactId>
+	<version>1</version>
+	<packaging>pom</packaging>
+	<url>https://projects.bitwormhole.com/moya</url>
+	<name>moya-all</name>
+
+	<modules>
+
+		<module>core/moya-parent</module>
+		<module>core/moya-core</module>
+
+		<module>tools/moya-build</module>
+
+		<module>lib/moya-lib-template</module>
+
+	</modules>
+
+</project>
