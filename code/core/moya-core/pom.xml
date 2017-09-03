@@ -13,7 +13,6 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<name>${project.artifactId}</name>
-	<groupId>com.bitwormhole.moya</groupId>
 	<version>${moya.version}</version>
 	<packaging>jar</packaging>
 
